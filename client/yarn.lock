@@ -1241,10 +1241,6 @@ alter@~0.2.0:
   dependencies:
     stable "~0.1.3"
 
-"amcharts@git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-amcharts.git#v3.4.8":
-  version "3.4.8"
-  resolved "git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-amcharts.git#923ead39124d7cb2cea214bb789773f7aacefce5"
-
 amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
@@ -1334,10 +1330,6 @@ angular-translate@~2.19.0:
   integrity sha512-Z/Fip5uUT2N85dPQ0sMEe1JdF5AehcDe4tg/9mWXNDVU531emHCg53ZND9Oe0dyNiGX5rWcJKmsL1Fujus1vGQ==
   dependencies:
     angular "^1.8.0"
-
-"angular-ui-bootstrap@git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/angular-ui-bootstrap.git#v2.5.40":
-  version "2.5.37"
-  resolved "git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/angular-ui-bootstrap.git#e2deecb98664461ec5167efbb367911720c4b948"
 
 angular-ui-tinymce@0.0.19:
   version "0.0.19"
@@ -4279,11 +4271,6 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-faker@^3.0.1:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/faker/-/faker-3.1.0.tgz#0f908faf4e6ec02524e54a57e432c5c013e08c9f"
-  integrity sha512-9LdOMIkTo2jLw7J4LWe0emqoStKbAGuC1Gyv087mZSrhUl28cMUNnHZImZF8GAVTahXeFp/cJ5ZZ+KefNGzixg==
-
 fancy-log@^1.3.2:
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/fancy-log/-/fancy-log-1.3.3.tgz#dbc19154f558690150a23953a0adbd035be45fc7"
@@ -4537,10 +4524,6 @@ findup-sync@^3.0.0:
     is-glob "^4.0.0"
     micromatch "^3.0.4"
     resolve-dir "^1.0.1"
-
-"fine-uploader@git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-fine-uploader.git#6.0.0-goalpha-publish":
-  version "6.0.0-goalpha"
-  resolved "git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-fine-uploader.git#cc0c04849cdf5ced5dc92e97456e6f414d640ebf"
 
 fined@^1.0.1:
   version "1.2.0"
@@ -6572,10 +6555,6 @@ jwa@^1.4.1:
     ecdsa-sig-formatter "1.0.11"
     safe-buffer "^5.0.1"
 
-"jwplayer@git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-jwplayer.git#v7.3.2":
-  version "7.3.2"
-  resolved "git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/go-jwplayer.git#aab07bfb20f4b83179f60b483de94b1e40d4eb35"
-
 jws@^3.2.2:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/jws/-/jws-3.2.2.tgz#001099f3639468c9414000e99995fa52fb478304"
@@ -6935,7 +6914,7 @@ lodash.zip@^4.2.0:
   resolved "https://registry.yarnpkg.com/lodash.zip/-/lodash.zip-4.2.0.tgz#ec6662e4896408ed4ab6c542a3990b72cc080020"
   integrity sha512-C7IOaBBK/0gMORRBd8OETNx3kmOkgIWIPvyDpZSCTwUrpYmgZwJkjZeOD8ww4xbOUOs4/attY+pciKvadNfFbg==
 
-lodash@^4, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.6.1, lodash@^4.7.0:
+lodash@^4, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.7.0:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -7010,15 +6989,6 @@ lru-cache@^6.0.0:
   integrity sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==
   dependencies:
     yallist "^4.0.0"
-
-"lti-data-generator@git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/lti-data-generator.git#v0.1.3":
-  version "1.0.0"
-  resolved "git+https://oauth2:v_iLo4hVmxs6rs1ZaxF_@gitlab.goreact.com/GoREACT/lti-data-generator.git#d97f950d3c67eabb52b04efc2f58105b4c4bc139"
-  dependencies:
-    faker "^3.0.1"
-    lodash "^4.6.1"
-    sillyname "^0.1.0"
-    uuid-v4 "^0.1.0"
 
 magic-string@^0.25.0:
   version "0.25.9"
@@ -9619,11 +9589,6 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.7.tgz#a9a1767f8af84155114eaabd73f99273c8f59ad9"
   integrity sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==
 
-sillyname@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/sillyname/-/sillyname-0.1.0.tgz#cfd98858e2498671347775efe3bb5141f46c87d6"
-  integrity sha512-GWA0Zont13ov+cMNw4T7nU4SCyW8jdhD3vjA5+qs8jr+09sCPxOf+FPS5zE0c9pYlCwD+NU/CiMimY462lgG9g==
-
 simple-concat@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/simple-concat/-/simple-concat-1.0.1.tgz#f46976082ba35c2263f1c8ab5edfe26c41c9552f"
@@ -10918,11 +10883,6 @@ utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==
-
-uuid-v4@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/uuid-v4/-/uuid-v4-0.1.0.tgz#62d7b310406f6cecfea1528c69f1e8e0bcec5a3a"
-  integrity sha512-m11RYDtowtAIihBXMoGajOEKpAXrKbpKlpmxqyztMYQNGSY5nZAZ/oYch/w2HNS1RMA4WLGcZvuD8/wFMuCEzA==
 
 uuid@^3.3.2:
   version "3.4.0"
